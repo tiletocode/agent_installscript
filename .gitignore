@@ -172,3 +172,5 @@ pyrightconfig.json
 
 # DB Access config
 config.ini
+
+*.deb
